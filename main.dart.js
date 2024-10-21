@@ -29687,7 +29687,7 @@ Qt(a2){var s=0,r=A.R(t.H),q=1,p,o=[],n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1
 var $async$lR=A.S(function(a3,a4){if(a3===1){p=a4
 s=q}while(true)switch(s){case 0:a0=new A.Jh(A.ak(t.wZ))
 q=3
-n=A.eE("http://127.0.0.1:7000/back_clitker/tourist_business_trip")
+n=A.eE("http://172.17.10.112:7000/back_clitker/tourist_business_trip")
 m=A.aij("POST",n)
 m.r.l(0,"Content-Type","application/json")
 i=t.N
