@@ -29740,7 +29740,7 @@ $1(a){this.a.b6().$0()
 this.b.e9()},
 $S:7}
 A.lW.prototype={
-kF(a,b){var s=t.N,r=A.aK(["Access-Control-Request-Method","GET","Origin","https://lesyalys.github.io/"],s,s)
+kF(a,b){var s=t.N,r=A.aK(["Access-Control-Request-Method","GET","Access-Control-Allow-Origin","*"],s,s)
 s=a.b
 s===$&&A.b()
 s.F(0,r)
